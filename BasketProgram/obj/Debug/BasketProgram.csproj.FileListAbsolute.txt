@@ -1,0 +1,6 @@
+c:\users\archana.kumari\documents\visual studio 2017\Projects\BasketProgram\BasketProgram\bin\Debug\BasketProgram.exe.config
+c:\users\archana.kumari\documents\visual studio 2017\Projects\BasketProgram\BasketProgram\bin\Debug\BasketProgram.exe
+c:\users\archana.kumari\documents\visual studio 2017\Projects\BasketProgram\BasketProgram\bin\Debug\BasketProgram.pdb
+c:\users\archana.kumari\documents\visual studio 2017\Projects\BasketProgram\BasketProgram\obj\Debug\BasketProgram.csprojResolveAssemblyReference.cache
+c:\users\archana.kumari\documents\visual studio 2017\Projects\BasketProgram\BasketProgram\obj\Debug\BasketProgram.exe
+c:\users\archana.kumari\documents\visual studio 2017\Projects\BasketProgram\BasketProgram\obj\Debug\BasketProgram.pdb
